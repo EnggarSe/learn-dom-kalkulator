@@ -1,0 +1,28 @@
+body{
+    background-color:black !important ;
+}
+main{
+    font-family: 'Oswald', sans-serif;
+    border: 2px black !important;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    display: flex !important;
+    justify-content: center !important;
+    background-color:black;
+    div{
+        width: 100%;
+    }
+    span{
+        width : 400px;
+        background-color:gray;
+        
+    }
+    form{
+        margin-top: 30px;
+    }
+    .border{
+        border-width: 3px !important;
+    }
+    
+    
+}

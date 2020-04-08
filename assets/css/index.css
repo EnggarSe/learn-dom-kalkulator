@@ -1,0 +1,35 @@
+body {
+  background-color: black !important;
+}
+
+main {
+  font-family: 'Oswald', sans-serif;
+  border: 2px black !important;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-pack: center !important;
+      -ms-flex-pack: center !important;
+          justify-content: center !important;
+  background-color: black;
+}
+
+main div {
+  width: 100%;
+}
+
+main span {
+  width: 400px;
+  background-color: gray;
+}
+
+main form {
+  margin-top: 30px;
+}
+
+main .border {
+  border-width: 3px !important;
+}
+/*# sourceMappingURL=index.css.map */
